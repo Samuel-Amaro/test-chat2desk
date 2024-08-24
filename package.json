@@ -7,7 +7,7 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
-		"format": "prettier --check && eslint .",
+		"format": "prettier --check . && eslint .",
 		"lint:prettier:fix": "npx prettier . --write",
 		"lint:prettier:check": "prettier --check .",
 		"lint:eslint:check": "eslint .",
