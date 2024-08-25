@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	--blue: #007bff;
+	--medium-gray: #6c757d;
+	--green: #28a745;
+	--red: #dc3545;
+	--light-gray: #f8f9fa;
+	--dark-gray: #343a40;
+}
+
+body {
+	background-color: var(--light-gray);
+}
