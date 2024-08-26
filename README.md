@@ -4,6 +4,10 @@
 
 Este projeto é uma aplicação simples desenvolvida com Next.js e React para a visualização de uma lista de contatos e seus detalhes. A aplicação integra-se com a API pública JSONPlaceholder para buscar os dados dos contatos e implementa um fluxo de autenticação básico utilizando Basic Auth HTTP.
 
+## Resultado Do Test
+
+[Resultado Teste](https://test-chat2desk.vercel.app/)
+
 ## Funcionalidades Implementadas
 
 ### 1. Autenticação
@@ -64,13 +68,13 @@ The following dependencies are required for this project:
 - Clone o repositório:
 
   ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/Samuel-Amaro/test-chat2desk.git
   ```
 
 - Navegue até o diretório do projeto:
 
   ```bash
-    cd seu-repositorio
+    cd test-chat2desk
   ```
 
 - Instale as dependências:
