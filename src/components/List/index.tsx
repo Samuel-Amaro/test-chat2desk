@@ -1,6 +1,6 @@
 import { Contact } from '@/types';
 import styles from './list.module.css';
-import Card from './Card';
+import Card from '../Card';
 
 async function getContacts() {
 	const response = await fetch('https://jsonplaceholder.typicode.com/users');
